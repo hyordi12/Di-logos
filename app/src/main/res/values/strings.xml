@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Dialogos</string>
+
+    <string name="button_confirm">Dialogo Generico</string>
+    <string name="button_register">Diálogo Perzonalizado</string>
+    <string name="dialog_confirm_message">¿Desea realizar un cambio?</string>
+    <string name="dialog_confirm_positive">Sí</string>
+    <string name="dialog_confirm_negative">No</string>
+    <string name="option_selected">Opción seleccionada: %s</string>
+    <string name="option_yes">Se Selecciono Sí</string>
+    <string name="option_no">Se Selecciono No</string>
+    <string name="dialog_register_title">Registro</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_age">Edad</string>
+    <string name="hint_email">Correo electrónico</string>
+    <string name="hint_phone">Número de teléfono</string>
+    <string name="dialog_register_positive">OK</string>
+    <string name="dialog_register_negative">Cancelar</string>
+    <string name="registration_done">Se realizó el registro</string>
+    <string name="registration_cancelled">Se canceló el registro</string>
+</resources>
